@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: Reader.xcodeproj
+xcode_scheme: Reader
+xcode_sdk: iphonesimulator
